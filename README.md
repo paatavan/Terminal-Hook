@@ -14,3 +14,5 @@ Terminal in Discord , Like Microsoft CMD/PowerShell
 👥 - Tested by a Friends who like Bugs and Crashes !
 
 ✅ - Opening in 30 days !
+
+<img src="url" width="50%" height="50%">
