@@ -1,4 +1,4 @@
-# Terminal-Hook
+# Terminal-Hook - Its just a Beta !
 Terminal in Discord , Like Microsoft CMD/PowerShell
 
 🛡️ - Full Admin Secutiy Bot !
