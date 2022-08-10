@@ -81,4 +81,4 @@ bot.on("messageCreate", message =>{
     }
 })
 
-bot.login("MTAwNjg1OTAxNjUwMjI1NTY0Ng.GE3sQf.aKsMbdol_NKiZYO32EL6bA1Jv6SXMUI49x75HY")
+bot.login(token bro)
